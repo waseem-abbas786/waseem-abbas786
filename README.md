@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waseem-abbas786
-- 👀 I’m interested in react js,js,html,css
-- 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on react js
+- 👀 I’m interested in swift,swiftUI,Swift Concurrency
+- 🌱 I’m currently diong Projects on swiftui
+- 💞️ I’m looking to collaborate on Swift,SwiftUI
 - 📫 How to reach me by message on my email waseemabbaskpr786@gmail.com
 
 <!---
