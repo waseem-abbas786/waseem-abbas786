@@ -1,7 +1,6 @@
 Hi, I'm Waseem Abbas
 Full Stack Software Engineer — iOS & Backend
-Swift · SwiftUI · ARKit · Django REST Framework · Pakistan
-About
+Swift · SwiftUI · ARKit · Django REST Framework 
 I build native iOS apps and scalable Python backends.
 Currently working at Torch Solutions on WebGis 3D — a LiDAR-based 3D scanning platform that captures real-time point clouds and generates textured 3D models from iPhone/iPad Pro sensors.
 
